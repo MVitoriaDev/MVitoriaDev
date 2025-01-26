@@ -64,5 +64,4 @@ Me chamo Maria Vitória, tenho 23 anos. Atualmente, estou cursando Engenharia de
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVitoriaDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>v
+</p>
